@@ -1,0 +1,4 @@
+edit the message in push.bat
+then in CLI
+type:
+start .\push.bat
