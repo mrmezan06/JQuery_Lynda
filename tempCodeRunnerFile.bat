@@ -1,3 +1,3 @@
 git add *
-git commit -m "CSS class positioning sizing ... all are added"
+git commit -m "Auto Table of content finished!!"
 git push origin master
