@@ -1,3 +1,3 @@
 git add *
-git commit -m "Simply Adding New File in github"
+git commit -m "manipulating attribute"
 git push origin master
